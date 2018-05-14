@@ -1,0 +1,10 @@
+{
+  "name": "zth-test",
+  "version": "0.0.1",
+  "description": "https://zerotoherojs.com/ test repository",
+  "main": "index.js",
+  "repository": "git@github.com:volkan-zth/zth-test.git",
+  "author": "Volkan Ozcelik",
+  "license": "MIT",
+  "private": false
+}
